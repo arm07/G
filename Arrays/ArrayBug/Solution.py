@@ -1,4 +1,5 @@
 
+
 The following code is supposed to rotate the array A by B positions.
 
 So, for example,
