@@ -25,6 +25,7 @@ Then the rotated array becomes:
     [4, 2]
 ]
 
+# Rotation is done in 2 steps - Transpose and Reverse 
 
 class Solution:
     # @param A : list of list of integers

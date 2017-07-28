@@ -24,6 +24,9 @@ Then the rotated array becomes:
     [4, 2]
 ]
 
+
+// Rotation is done in 2 steps - Transpose and Reverse 
+
 public class Solution {
 	public void rotate(ArrayList<ArrayList<Integer>> a) {
 	    
